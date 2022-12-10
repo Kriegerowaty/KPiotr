@@ -12,7 +12,7 @@ def add_user():
     while next_user in ['y', 'ye', 'yes']:
         name = input('\nEnter your name: ')
         surname = input('Enter your surname: ')
-        city = input('Enter your address (city): ')
+        city = input('Enter your address (city): ')#sdfs
         post_code = input('Enter your address (post code): ')
         street = input('Enter your address (street): ')
         home_number = input('Enter your address (number): ')
